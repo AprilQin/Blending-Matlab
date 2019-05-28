@@ -1,3 +1,3 @@
 # Blending-Matlab
 
-Twp blending implementation comparison in Matlab
+Two blending implementation comparison in Matlab
